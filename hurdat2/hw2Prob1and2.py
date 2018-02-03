@@ -1,7 +1,7 @@
 mport datetime
 import math
 cycloneList = []
-with open("/Users/xli02/Downloads/hurdat2-1851-2016-041117.txt") as f:
+with open("./hurdat2-1851-2016-041117.txt") as f:
     while True:
         line = f.readline()
         #if end of file, then break;
