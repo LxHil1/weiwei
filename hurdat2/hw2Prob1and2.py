@@ -1,4 +1,4 @@
-mport datetime
+import datetime
 import math
 cycloneList = []
 with open("./hurdat2-1851-2016-041117.txt") as f:
